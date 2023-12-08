@@ -1,4 +1,4 @@
-package spring.core.Member;
+package spring.core.member;
 
 public enum Grade {
     BASIC,

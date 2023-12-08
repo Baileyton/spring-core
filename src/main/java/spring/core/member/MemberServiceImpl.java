@@ -1,4 +1,4 @@
-package spring.core.Member;
+package spring.core.member;
 
 public class MemberServiceImpl implements MemberService {
 

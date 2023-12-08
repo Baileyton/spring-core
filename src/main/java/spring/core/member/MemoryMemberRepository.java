@@ -1,4 +1,4 @@
-package spring.core.Member;
+package spring.core.member;
 
 import java.util.HashMap;
 import java.util.Map;
